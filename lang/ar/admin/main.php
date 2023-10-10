@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'dashboard' => 'لوحة التحكم',
+    'edarah' => 'إدارة',
+    'login' => 'تسجيل الدخول',
+    'blank-page' => 'صفحة فارغة',
+    'users' => 'المستخدمين',
+    'settings' => 'الاعدادات',
+    'profile' => 'الملف الشخصي',
+    'sign-out' => 'تسجيل الخروج',
+    'new-users' => 'مستخدمين جدد',
+    'new-orders' => 'طلبات جديدة',
+    'this-month-earnings' => ' ارباح هذا الشهر',
+    'sales' => 'المبيعات',
+    'orders' => 'الطلبات',
+    'notifications' => 'الاشعارات',
+    'messages' => 'الرسائل',
+    'reports' => 'التقارير',
+    '4-months-ago' => 'منذ ٤ اشهر',
+    'more' => 'المزيد',
+    'email-address' => 'البريد الالكتروني',
+    'password' => 'كلمة المرور',
+    'remember-me' => 'تذكرني',
+    'sign-in' => 'دخول',
+    'wrong-email-or-password' => 'خطأ في كلمة المرور او البريد الالكتروني',
+];
